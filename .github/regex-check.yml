@@ -1,0 +1,6 @@
+mustMatch:
+mustNotMatch:
+  - WIP
+  - DNM
+caseSensitive: false
+failureStatus: in_progress
